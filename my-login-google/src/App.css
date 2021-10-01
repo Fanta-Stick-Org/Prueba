@@ -1,0 +1,74 @@
+html {
+  background-color: #009691;
+    font-family: 'Montserrat', sans-serif;
+    margin: 18px;
+}
+
+.Logo{
+  background-color: #ff8340;
+  border: 3px #e36622 solid;
+  border-radius: 10px;
+  border-width: 5px;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  padding: 20px;
+  size: 30%;
+  width:200px;
+
+}
+
+div {
+    color: white;
+    font-weight: bold;
+    background-color: #ff8340;
+    width: 50%;
+    align-items: center;
+    align-content: center;
+    margin:auto;
+    display: grid;
+}
+
+.App {
+  text-align: center;
+  margin-top: 20px;
+
+}
+
+
+.buttonLogin {
+  display: grid;
+  align-items: center;
+  box-shadow: rgb(0 0 0 / 24%) 0px 2px 2px 0px, rgb(0 0 0 / 24%) 0px 0px 1px 0px;
+  border: 1px solid transparent;
+  font-size: 14px;
+  font-family: Montserrat, sans-serif;
+  /*background-color: #e36622;*/
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+  width: 20%;
+  margin: auto;
+  
+}
+.buttonLogout {
+  display: grid;
+  align-items: center;
+  box-shadow: rgb(0 0 0 / 24%) 0px 2px 2px 0px, rgb(0 0 0 / 24%) 0px 0px 1px 0px;
+  border: 1px solid transparent;
+  font-size: 14px;
+  font-family: Montserrat, sans-serif;
+  /*background-color: #e36622;*/
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+  width: 20%;
+  margin: auto;
+
+}
+
+.buttonText {
+  color: #4285f4;
+  font-weight: bolder;
+}
+
